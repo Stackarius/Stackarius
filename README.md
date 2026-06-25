@@ -51,7 +51,7 @@
 
 ## Connect
 <p>
-  <a href="https://twitter.com/your_handle">Twitter</a> •
+  <a href="https://twitter.com/Stackarius">Twitter</a> •
   <a href="https://www.linkedin.com/in/your_profile">LinkedIn</a> •
   <a href="mailto:opepoju@gmail.com">Email</a>
 </p>
