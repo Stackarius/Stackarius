@@ -1,10 +1,5 @@
 # Hi 👋 I'm Stackarius
 
-<p align="center">
-  <!-- Header card (optional: add .github/banner.svg to repo) -->
-  <img alt="banner" src="https://raw.githubusercontent.com/Stackarius/Stackarius/main/.github/banner.svg" width="100%" style="max-width:900px;border-radius:12px"/>
-</p>
-
 <h1 align="center">Stackarius</h1>
 <p align="center">
   <em>Software engineer • Open-source enthusiast • Building polished, developer-focused apps</em>
@@ -12,7 +7,6 @@
 
 <p align="center">
   <!-- Clean premium badges -->
-  <img alt="Profile views" src="https://visitor-badge.glitch.me/badge?page_id=Stackarius.Stackarius" />
   <img alt="Followers" src="https://img.shields.io/github/followers/Stackarius?label=Followers&style=social" />
   <img alt="Top language" src="https://img.shields.io/github/languages/top/Stackarius/Stackarius?color=4c1" />
 </p>
@@ -52,10 +46,9 @@
 ## Connect
 <p>
   <a href="https://twitter.com/Stackarius">Twitter</a> •
-  <a href="https://www.linkedin.com/in/your_profile">LinkedIn</a> •
   <a href="mailto:opepoju@gmail.com">Email</a>
 </p>
 
 ---
 
-Made with care. ✨
+Made with care. 
