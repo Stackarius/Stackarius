@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=Stackarius&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Web%20%C2%B7%20Cross-Platform%20Mobile&descSize=17&descAlignY=58" alt="Stackarius banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=Stackarius&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Full-Stack%20Web%20%C2%B7%20Cross-Platform%20Mobile&descSize=17&descAlignY=58" alt="Stackarius banner" />
 
 <a href="https://github.com/Stackarius">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=3ECF8E&center=true&vCenter=true&width=640&lines=I+build+production-minded+digital+products;Web+%C2%B7+Mobile+%C2%B7+Backend+systems;Build+useful+things.+Ship+them.+Improve+them." alt="Typing animation" />
