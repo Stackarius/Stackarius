@@ -19,7 +19,7 @@
 
 ## 👋 About
 
-I'm a software engineer focused on building **useful, maintainable products** rather than just writing code.
+I'm a software developer focused on building **useful, maintainable products** rather than just writing code.
 
 I care about clean architecture, pragmatic engineering, good UX, and **shipping**.
 
